@@ -107,9 +107,7 @@ Open the notebook using Jupyter Notebook or JupyterLab and execute the cells.
 
 This project demonstrates how Python-based data visualisation tools can transform raw restaurant transaction data into meaningful insights. By implementing five different chart types and interactive filtering features, the dashboard provides an accessible way to explore restaurant sales and customer tipping behaviour.
 
-## Author
 
-**Name:** Your Name
 
 **Project:** Data Visualisation
 
